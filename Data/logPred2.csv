@@ -1,0 +1,165 @@
+Date,HomeTeam,AwayTeam,PHW,PD,PAW,MaherHG,MaherAG,EloHW,EloAW,Choix,CoteBk,CoteCalc,KC,Conseil,HashtagHome,HashtagAway,FiveH,FiveA
+2020-02-22,Chelsea,Tottenham,0.4424373209476471,0.3730403780937195,0.1845223605632782,1.6439211912808471,1.3834995448110077,0.5096499413997637,0.4903500586002364,H,1.75,2.2602071585148407,-30.09795844554901,"La côte calculé par l'algorithme (2.27) est plus élévé que celle du bookmaker (1.75).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",CFC,COYS,"['V', 'L', 'D', 'D', 'L']","['L', 'D', 'L', 'L', 'V']"
+2020-02-22,Burnley,Bournemouth,0.4002722501754761,0.2804453372955322,0.3192823827266693,1.4200617926087329,1.0458655280389588,0.5561039821033329,0.4438960178966672,H,2.25,2.498299593743029,-7.9509949684143075,"La côte calculé par l'algorithme (2.5) est plus élévé que celle du bookmaker (2.25).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",Clarets,afcb,"['L', 'V', 'V', 'D', 'V']","['L', 'L', 'L', 'L', 'L']"
+2020-02-22,Crystal Palace,Newcastle,0.450943648815155,0.21579349040985107,0.3332628607749939,1.0047480318657966,0.9330940082416668,0.5200085118133735,0.4799914881866265,H,2.0,2.2175719796198017,-9.811270236968994,"La côte calculé par l'algorithme (2.22) est plus élévé que celle du bookmaker (2.0).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",CPFC,NUFC,"['D', 'D', 'L', 'L', 'L']","['D', 'L', 'D', 'D', 'L']"
+2020-02-22,Sheffield United,Brighton,0.4394332766532898,0.17123134434223175,0.3893353939056397,1.2285679478392058,1.1347097083805475,0.5839884610522086,0.4160115389477914,H,1.95,2.2756583379756057,-15.063695844851049,"La côte calculé par l'algorithme (2.27) est plus élévé que celle du bookmaker (1.95).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",SUFC,BHAFC,"['V', 'D', 'L', 'V', 'V']","['L', 'D', 'L', 'D', 'D']"
+2020-02-22,Southampton,Aston Villa,0.20602865517139435,0.5903641581535339,0.2036072164773941,1.9561070064822303,1.6857558392414025,0.6082286722535403,0.3917713277464597,D,4.3,1.6938697686656201,46.6232084866726,"La côte calculé par l'algorithme est intéressante (4.76) comparé à celle du bookmaker (4.3).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 4662.32 de votre bankroll sur équipe domicile faites attention.
+            ",SaintsFC,AVFC,"['V', 'L', 'V', 'L', 'L']","['L', 'D', 'L', 'L', 'L']"
+2020-02-22,Leicester,Man City,0.5252329707145691,0.14905932545661926,0.3257076740264893,1.960368906918476,2.1604247287293363,0.2620000563884126,0.7379999436115874,H,4.75,1.9039170344533403,39.86284295717875,"Nous vous conseillons de parier sur équipe domicile a hauteur de 3986.28% de votre bankroll.
+
+            La côte calculée étant de 1.89 contre 4.75 pour le bookmaker.
+            ",lcfc,MCFC,"['L', 'L', 'V', 'D', 'D']","['V', 'D', 'V', 'L', 'L']"
+2020-02-23,Man United,Watford,0.3519931435585022,0.5098671317100525,0.1381397694349289,1.7645013248141783,0.9567712043787744,0.6728441498604066,0.3271558501395934,D,4.05,1.9612952822553635,34.916783063138105,"Nous vous conseillons de parier sur équipe domicile a hauteur de 3491.68% de votre bankroll.
+
+            La côte calculée étant de 2.86 contre 4.05 pour le bookmaker.
+            ",MUFC,WatfordFC,"['V', 'L', 'L', 'D', 'V']","['V', 'D', 'L', 'L', 'D']"
+2020-02-23,Wolves,Norwich,0.5838388204574585,0.2927392423152924,0.12342193722724915,1.9599627847382528,1.1677500296220065,0.717400578528229,0.2825994214717709,H,1.55,1.712801487260584,-17.281786961988967,"La côte calculé par l'algorithme (1.72) est plus élévé que celle du bookmaker (1.55).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",WOL,NCFC,"['D', 'V', 'L', 'D', 'D']","['L', 'L', 'L', 'D', 'L']"
+2020-02-23,Arsenal,Everton,0.5046098232269287,0.1932833939790725,0.3021067678928375,1.6187829979493071,1.2872942647532408,0.572221154099385,0.4277788459006151,H,2.05,1.981729157797804,3.2809654871622644,"Nous vous conseillons de parier sur équipe domicile a hauteur de 328.1% de votre bankroll.
+
+            La côte calculée étant de 2.0 contre 2.05 pour le bookmaker.
+            ",Arsenal,EFC,"['D', 'D', 'D', 'D', 'V']","['L', 'D', 'D', 'V', 'L']"
+2020-02-24,Liverpool,West Ham,0.8996222019195557,0.03327975422143936,0.06709811091423035,3.2169704729268767,1.4673937980255287,0.90972326073057,0.09027673926943004,H,1.15,1.1115777243672562,23.04368813832596,"La côte calculé par l'algorithme est intéressante (1.11) comparé à celle du bookmaker (1.15).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 2304.37 de votre bankroll sur équipe domicile faites attention.
+            ",LFC,WHUFC,"['V', 'V', 'V', 'V', 'V']","['D', 'L', 'L', 'D', 'L']"
+2020-02-28,Norwich,Leicester,0.1515333205461502,0.3210171163082123,0.5274495482444763,0.7059084578508846,1.2937213322942511,0.2235588997599401,0.7764411002400601,A,1.72,1.8959159285060063,-12.887052363819544,"La côte calculé par l'algorithme (3.12) est plus élévé que celle du bookmaker (1.72).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être match nul.",NCFC,lcfc,"['V', 'L', 'D', 'L', 'L']","['L', 'L', 'D', 'D', 'L']"
+2020-02-29,Brighton,Crystal Palace,0.29920533299446106,0.40601128339767456,0.2947833836078644,1.073883616124913,0.6822296395103701,0.4052663141060779,0.5947336858939221,D,3.2,2.4629857368287307,13.601641221479936,"La côte calculé par l'algorithme est intéressante (3.33) comparé à celle du bookmaker (3.2).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 1360.16 de votre bankroll sur équipe domicile faites attention.
+            ",BHAFC,CPFC,"['D', 'L', 'D', 'D', 'D']","['D', 'L', 'L', 'L', 'L']"
+2020-02-29,Bournemouth,Chelsea,0.28683942556381226,0.4997119903564453,0.2134486436843872,1.020850828039279,1.536918889991353,0.2665526782681301,0.73344732173187,D,3.8,2.0011527025531217,32.10377011980329,"Nous vous conseillons de parier sur équipe domicile a hauteur de 3210.38% de votre bankroll.
+
+            La côte calculée étant de 3.45 contre 3.8 pour le bookmaker.
+            ",afcb,CFC,"['L', 'V', 'V', 'L', 'L']","['L', 'D', 'D', 'L', 'L']"
+2020-02-29,Newcastle,Burnley,0.3026667535305023,0.4047326445579529,0.2926006317138672,1.0137168317182412,1.1415222448028908,0.4886283447542133,0.5113716552457868,D,3.05,2.4707668468210557,11.435832483012502,"La côte calculé par l'algorithme est intéressante (3.33) comparé à celle du bookmaker (3.05).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 1143.58 de votre bankroll sur équipe domicile faites attention.
+            ",NUFC,Clarets,"['V', 'D', 'D', 'L', 'L']","['L', 'V', 'D', 'V', 'L']"
+2020-02-29,West Ham,Southampton,0.4886275827884674,0.3707730770111084,0.1405993402004242,1.6860813046650138,1.4812217018446263,0.4822532115656497,0.5177467884343503,H,2.65,2.0465484046014484,17.870490569056887,"Nous vous conseillons de parier sur équipe domicile a hauteur de 1787.05% de votre bankroll.
+
+            La côte calculée étant de 2.04 contre 2.65 pour le bookmaker.
+            ",WHUFC,SaintsFC,"['L', 'L', 'D', 'L', 'L']","['L', 'V', 'L', 'L', 'L']"
+2020-02-29,Watford,Liverpool,0.08652833849191666,0.1561584621667862,0.7573131918907166,0.4561581896610882,1.0117681879188445,0.08778684863597136,0.9122131513640288,A,1.42,1.3204576530660834,17.948745829718447,"Nous vous conseillons de parier sur match nul a hauteur de 1794.87% de votre bankroll.
+
+            La côte calculée étant de 6.25 contre 1.42 pour le bookmaker.
+            ",WatfordFC,LFC,"['D', 'L', 'L', 'D', 'L']","['V', 'V', 'L', 'V', 'L']"
+2020-03-01,Everton,Man United,0.4333662986755371,0.28901204466819763,0.2776216268539429,1.066092065284917,1.2302177854705063,0.4215212388217668,0.5784787611782332,H,2.52,2.3075167659696203,6.058096885681152,"La côte calculé par l'algorithme est intéressante (2.33) comparé à celle du bookmaker (2.52).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 605.81 de votre bankroll sur équipe domicile faites attention.
+            ",EFC,MUFC,"['D', 'D', 'V', 'V', 'L']","['L', 'L', 'D', 'V', 'L']"
+2020-03-01,Tottenham,Wolves,0.478873610496521,0.32355308532714844,0.19757325947284696,1.6315589253874652,1.1837189459376656,0.5725257531000835,0.4274742468999166,H,2.4,2.088233676028103,10.664047513689306,"Nous vous conseillons de parier sur équipe domicile a hauteur de 1066.4% de votre bankroll.
+
+            La côte calculée étant de 2.08 contre 2.4 pour le bookmaker.
+            ",COYS,WOL,"['D', 'V', 'V', 'V', 'L']","['V', 'L', 'D', 'D', 'L']"
+2020-03-07,Liverpool,Bournemouth,0.8459188342094421,0.0834648460149765,0.07061637938022614,2.985210159821219,1.074900091838065,0.9261465650474824,0.07385343495251759,H,1.25,1.1821465128324695,22.95941710472107,"La côte calculé par l'algorithme est intéressante (1.18) comparé à celle du bookmaker (1.25).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 2295.94 de votre bankroll sur équipe domicile faites attention.
+            ",LFC,afcb,"['V', 'V', 'V', 'V', 'L']","['L', 'L', 'L', 'L', 'D']"
+2020-03-07,Arsenal,West Ham,0.7515151500701904,0.08001194894313812,0.16847288608551025,1.9694815256556069,1.4585020019400172,0.6899743418369719,0.310025658163028,H,1.57,1.3306451638487946,31.557681685999828,"Nous vous conseillons de parier sur équipe domicile a hauteur de 3155.77% de votre bankroll.
+
+            La côte calculée étant de 1.33 contre 1.57 pour le bookmaker.
+            ",Arsenal,WHUFC,"['D', 'D', 'D', 'V', 'V']","['L', 'D', 'L', 'L', 'L']"
+2020-03-07,Crystal Palace,Watford,0.21225731074810028,0.4978783428668976,0.2898643910884857,1.0449081041793045,0.9756258527171704,0.5747817718227232,0.4252182281772768,D,3.2,2.0085227934233307,26.964122598821465,"Nous vous conseillons de parier sur match nul a hauteur de 2696.41% de votre bankroll.
+
+            La côte calculée étant de 2.0 contre 3.2 pour le bookmaker.
+            ",CPFC,WatfordFC,"['L', 'L', 'L', 'V', 'V']","['L', 'L', 'D', 'L', 'L']"
+2020-03-07,Sheffield United,Norwich,0.6188097596168518,0.19268295168876648,0.1885072886943817,1.5160981573517145,1.0942787394526174,0.6589030094877933,0.3410969905122067,H,1.65,1.6160055404090097,3.2363235950469886,"La côte calculé par l'algorithme est intéressante (1.61) comparé à celle du bookmaker (1.65).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 323.63 de votre bankroll sur équipe domicile faites attention.
+            ",SUFC,NCFC,"['D', 'L', 'V', 'V', 'D']","['L', 'D', 'L', 'L', 'L']"
+2020-03-07,Southampton,Newcastle,0.4838058948516846,0.2957175672054291,0.22047656774520874,1.4671575858458081,0.8270465568682398,0.51301164243679,0.48698835756321,H,1.7,2.066944637593884,-25.361425536019468,"La côte calculé par l'algorithme (2.08) est plus élévé que celle du bookmaker (1.7).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",SaintsFC,NUFC,"['V', 'L', 'L', 'V', 'L']","['D', 'D', 'L', 'L', 'D']"
+2020-03-07,Wolves,Brighton,0.463615894317627,0.46877521276474,0.06760890781879425,1.7181471929742549,1.078137775052238,0.6846317656616343,0.3153682343383657,D,4.05,2.1332185934111263,29.460315137613012,"La côte calculé par l'algorithme est intéressante (2.17) comparé à celle du bookmaker (4.05).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 2946.03 de votre bankroll sur équipe domicile faites attention.
+            ",WOL,BHAFC,"['L', 'D', 'D', 'V', 'V']","['L', 'D', 'D', 'D', 'L']"
+2020-03-07,Burnley,Tottenham,0.2880793511867523,0.4264772832393646,0.2854433357715607,1.2416011210176296,1.4460247363823524,0.34884815899283,0.65115184100717,D,3.35,2.3447907762035243,18.2425063341222,"La côte calculé par l'algorithme est intéressante (3.45) comparé à celle du bookmaker (3.35).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 1824.25 de votre bankroll sur équipe domicile faites attention.
+            ",Clarets,COYS,"['V', 'D', 'V', 'V', 'D']","['L', 'L', 'V', 'L', 'L']"
+2020-03-08,Chelsea,Everton,0.5029967427253723,0.16541573405265808,0.3315875232219696,2.0233131148563115,1.3338810463653727,0.6010862908186735,0.3989137091813264,H,1.85,1.988084444805208,-8.171297171536606,"La côte calculé par l'algorithme (2.0) est plus élévé que celle du bookmaker (1.85).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",CFC,EFC,"['D', 'D', 'L', 'V', 'D']","['D', 'V', 'L', 'L', 'D']"
+2020-03-08,Man United,Man City,0.38876229524612427,0.29276710748672485,0.3184706270694733,1.3146540191200642,1.8505334573284449,0.2884854192664711,0.7115145807335289,H,4.6,2.572265912173666,21.897404392560325,"La côte calculé par l'algorithme est intéressante (2.56) comparé à celle du bookmaker (4.6).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 2189.74 de votre bankroll sur équipe domicile faites attention.
+            ",MUFC,MCFC,"['L', 'D', 'V', 'V', 'D']","['D', 'V', 'L', 'L', 'V']"
+2020-03-09,Leicester,Aston Villa,0.5675877928733826,0.3727822303771973,0.059629954397678375,2.9233228379791125,1.5917918680777619,0.7511489909611111,0.2488510090388889,H,1.4,1.7618419785555182,-51.34427249431612,"La côte calculé par l'algorithme (1.75) est plus élévé que celle du bookmaker (1.4).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",lcfc,AVFC,"['V', 'D', 'D', 'L', 'L']","['D', 'L', 'L', 'L', 'L']"
+2020-03-14,Watford,Leicester,0.3586506247520447,0.37769705057144165,0.2636522948741913,0.743597264834647,1.2282495935108344,0.3472710311257087,0.6527289688742913,D,3.45,2.6476245935387555,12.369584672305052,"La côte calculé par l'algorithme est intéressante (2.78) comparé à celle du bookmaker (3.45).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 12.37 de votre bankroll sur équipe domicile faites attention.
+            ",WatfordFC,lcfc,"['L', 'D', 'L', 'V', 'L']","['D', 'D', 'L', 'L', 'V']"
+2020-03-14,Bournemouth,Crystal Palace,0.30151301622390747,0.5207019448280334,0.17778508365154266,0.9095552215833914,0.6474775773107752,0.38471840032150156,0.6152815996784984,D,3.25,1.9204844728019195,30.76805869738261,"Nous vous conseillons de parier sur équipe domicile a hauteur de 30.77% de votre bankroll.
+
+            La côte calculée étant de 3.33 contre 3.25 pour le bookmaker.
+            ",afcb,CPFC,"['V', 'L', 'L', 'D', 'L']","['L', 'L', 'V', 'V', 'V']"
+2020-03-14,Brighton,Arsenal,0.20444148778915405,0.31255632638931274,0.4830021858215332,1.1878503097239306,1.270921660867152,0.2811575241721781,0.7188424758278219,A,2.25,2.0703840051968103,6.940393447875977,"Nous vous conseillons de parier sur match nul a hauteur de 6.94% de votre bankroll.
+
+            La côte calculée étant de 3.23 contre 2.25 pour le bookmaker.
+            ",BHAFC,Arsenal,"['D', 'D', 'D', 'L', 'D']","['D', 'D', 'V', 'V', 'V']"
+2020-03-14,Man City,Burnley,0.45426443219184875,0.4590761661529541,0.08665944635868073,2.740232686240444,1.042506490240979,0.8354591711966457,0.16454082880335436,D,7.75,2.1782877738567286,37.893930187931765,"La côte calculé par l'algorithme est intéressante (2.22) comparé à celle du bookmaker (7.75).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 37.89 de votre bankroll sur équipe domicile faites attention.
+            ",MCFC,Clarets,"['V', 'L', 'V', 'V', 'L']","['D', 'V', 'V', 'D', 'D']"
+2020-03-14,Newcastle,Sheffield United,0.3180663287639618,0.45374053716659546,0.22819308936595917,0.6257283176921201,0.6175472312361112,0.4742089488907218,0.5257910511092783,D,3.1,2.203902711105664,19.36169834364028,"Nous vous conseillons de parier sur équipe domicile a hauteur de 19.36% de votre bankroll.
+
+            La côte calculée étant de 3.13 contre 3.1 pour le bookmaker.
+            ",NUFC,SUFC,"['D', 'L', 'L', 'D', 'V']","['L', 'V', 'V', 'D', 'V']"
+2020-03-14,Norwich,Southampton,0.4382956624031067,0.30663588643074036,0.25506848096847534,1.2897028836833784,1.4230086253069498,0.38904158499086505,0.6109584150091348,H,2.82,2.281564901913827,12.966690548173668,"Nous vous conseillons de parier sur équipe domicile a hauteur de 12.97% de votre bankroll.
+
+            La côte calculée étant de 2.27 contre 2.82 pour le bookmaker.
+            ",NCFC,SaintsFC,"['D', 'L', 'L', 'V', 'L']","['L', 'L', 'V', 'L', 'L']"
+2020-03-14,Aston Villa,Chelsea,0.2417839616537094,0.33725908398628235,0.42095696926116943,1.359914621854385,1.5939269221817487,0.23328701656334813,0.7667129834366518,A,1.6,2.3755397178840427,-54.411474863688134,"La côte calculé par l'algorithme (2.94) est plus élévé que celle du bookmaker (1.6).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être match nul.",AVFC,CFC,"['V', 'L', 'L', 'L', 'L']","['D', 'L', 'V', 'D', 'V']"
+2020-03-15,West Ham,Wolves,0.15104591846466064,0.47506141662597656,0.3738926649093628,1.162844546020665,1.0763788770855314,0.35399630819708405,0.646003691802916,D,3.35,2.1049909864334784,25.168329604128576,"Nous vous conseillons de parier sur match nul a hauteur de 25.17% de votre bankroll.
+
+            La côte calculée étant de 2.08 contre 3.35 pour le bookmaker.
+            ",WHUFC,WOL,"['D', 'L', 'L', 'V', 'L']","['D', 'D', 'V', 'V', 'D']"
+2020-03-15,Tottenham,Man United,0.3525376319885254,0.25035399198532104,0.3971083462238312,1.3246251867781966,1.020238981993595,0.4724062492076896,0.5275937507923103,A,2.2,2.5182044384339064,-10.530136525630946,"La côte calculé par l'algorithme (2.86) est plus élévé que celle du bookmaker (2.2).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être équipe domicile.",COYS,MUFC,"['V', 'V', 'L', 'L', 'D']","['D', 'V', 'V', 'D', 'V']"
+2020-03-16,Everton,Liverpool,0.11340150982141495,0.39316070079803467,0.4934377670288086,0.7973943182845402,1.1211334932581587,0.151735572414151,0.848264427585849,A,1.75,2.0265980166484026,-18.197854359944664,"La côte calculé par l'algorithme (2.56) est plus élévé que celle du bookmaker (1.75).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être match nul.",EFC,LFC,"['V', 'V', 'L', 'D', 'L']","['V', 'V', 'V', 'L', 'V']"

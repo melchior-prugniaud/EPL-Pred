@@ -1,0 +1,165 @@
+Date,Intitule,Choix,KC,Mise,Gains/Pertes,Bankroll,Previous_BankRoll,Conseil,Sport,Etat,Cote,Indice
+2020-02-22,Chelsea - Tottenham,Chelsea,-30.1,0.0,0.0,100.0,100.0,"La cote calculée par l'algorithme (2.27) est plus élévée que celle du bookmaker (1.75).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,1.75,0
+2020-02-22,Burnley - Bournemouth,Burnley,-7.95,0.0,0.0,100.0,100.0,"La cote calculée par l'algorithme (2.5) est plus élévée que celle du bookmaker (2.25).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,2.25,0
+2020-02-22,Crystal Palace - Newcastle,Crystal Palace,-9.81,0.0,0.0,100.0,100.0,"La cote calculée par l'algorithme (2.22) est plus élévée que celle du bookmaker (2.0).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,2.0,0
+2020-02-22,Sheffield United - Brighton,Sheffield United,-15.06,0.0,0.0,100.0,100.0,"La cote calculée par l'algorithme (2.27) est plus élévée que celle du bookmaker (1.95).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,1.95,0
+2020-02-22,Southampton - Aston Villa,Match nul,46.62,46.62,-46.62,53.38,100.0,"La cote calculée par l'algorithme est intéressante (1.69) comparée à celle du bookmaker (4.3).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 46.62% de votre bankroll sur le match nul faites attention.
+            ",Football,Perdu,4.3,3
+2020-02-22,Leicester - Man City,Leicester,39.86,21.28,-21.28,32.1,53.38,"Nous vous conseillons de parier sur l'équipe domicile à hauteur de 39.86% de votre bankroll.
+
+            La cote calculée étant de 1.89 contre 4.75 pour le bookmaker.
+            ",Football,Perdu,4.75,3
+2020-02-23,Man United - Watford,Match nul,34.92,11.21,-11.21,20.89,32.1,"Nous vous conseillons de parier sur le match nul à hauteur de 34.92% de votre bankroll.
+
+            La cote calculée étant de 1.96 contre 4.05 pour le bookmaker.
+            ",Football,Perdu,4.05,3
+2020-02-23,Wolves - Norwich,Wolves,-17.28,0.0,0.0,20.89,20.89,"La cote calculée par l'algorithme (1.72) est plus élévée que celle du bookmaker (1.55).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,1.55,0
+2020-02-23,Arsenal - Everton,Arsenal,3.28,0.69,0.72,21.61,20.89,"Nous vous conseillons de parier sur l'équipe domicile à hauteur de 3.28% de votre bankroll.
+
+            La cote calculée étant de 2.0 contre 2.05 pour le bookmaker.
+            ",Football,Gagné,2.05,3
+2020-02-24,Liverpool - West Ham,Liverpool,23.04,4.98,0.75,22.36,21.61,"La cote calculée par l'algorithme est intéressante (1.11) comparée à celle du bookmaker (1.15).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 23.04% de votre bankroll sur l'équipe domicile faites attention.
+            ",Football,Gagné,1.15,4
+2020-02-28,Norwich - Leicester,Leicester,-12.89,0.0,0.0,22.36,22.36,"La cote calculée par l'algorithme (1.89) est plus élévée que celle du bookmaker (1.72).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe extérieur.",Football,Non parié,1.72,0
+2020-02-29,Brighton - Crystal Palace,Match nul,13.6,3.04,-3.04,19.32,22.36,"La cote calculée par l'algorithme est intéressante (2.44) comparée à celle du bookmaker (3.2).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 13.6% de votre bankroll sur le match nul faites attention.
+            ",Football,Perdu,3.2,2
+2020-02-29,Bournemouth - Chelsea,Match nul,32.1,6.2,17.36,36.68,19.32,"Nous vous conseillons de parier sur le match nul à hauteur de 32.1% de votre bankroll.
+
+            La cote calculée étant de 2.0 contre 3.8 pour le bookmaker.
+            ",Football,Gagné,3.8,2
+2020-02-29,Newcastle - Burnley,Match nul,11.44,4.19,8.6,45.28,36.68,"La cote calculée par l'algorithme est intéressante (2.5) comparée à celle du bookmaker (3.05).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 11.44% de votre bankroll sur le match nul faites attention.
+            ",Football,Gagné,3.05,2
+2020-02-29,West Ham - Southampton,West Ham,17.87,8.09,13.35,58.63,45.28,"Nous vous conseillons de parier sur l'équipe domicile à hauteur de 17.87% de votre bankroll.
+
+            La cote calculée étant de 2.04 contre 2.65 pour le bookmaker.
+            ",Football,Gagné,2.65,2
+2020-02-29,Watford - Liverpool,Liverpool,17.95,10.52,-10.52,48.11,58.63,"Nous vous conseillons de parier sur l'équipe extérieur à hauteur de 17.95% de votre bankroll.
+
+            La cote calculée étant de 1.32 contre 1.42 pour le bookmaker.
+            ",Football,Perdu,1.42,4
+2020-03-01,Everton - Man United,Everton,6.06,2.91,-2.91,45.19,48.11,"La cote calculée par l'algorithme est intéressante (2.33) comparée à celle du bookmaker (2.52).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 6.06% de votre bankroll sur l'équipe domicile faites attention.
+            ",Football,Perdu,2.52,2
+2020-03-01,Tottenham - Wolves,Tottenham,10.66,4.82,-4.82,40.37,45.19,"Nous vous conseillons de parier sur l'équipe domicile à hauteur de 10.66% de votre bankroll.
+
+            La cote calculée étant de 2.08 contre 2.4 pour le bookmaker.
+            ",Football,Perdu,2.4,2
+2020-03-07,Liverpool - Bournemouth,Liverpool,22.96,9.27,2.32,42.69,40.37,"La cote calculée par l'algorithme est intéressante (1.18) comparée à celle du bookmaker (1.25).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 22.96% de votre bankroll sur l'équipe domicile faites attention.
+            ",Football,Gagné,1.25,4
+2020-03-07,Arsenal - West Ham,Arsenal,31.56,13.47,7.68,50.37,42.69,"Nous vous conseillons de parier sur l'équipe domicile à hauteur de 31.56% de votre bankroll.
+
+            La cote calculée étant de 1.33 contre 1.57 pour le bookmaker.
+            ",Football,Gagné,1.57,4
+2020-03-07,Crystal Palace - Watford,Match nul,26.96,13.58,-13.58,36.79,50.37,"Nous vous conseillons de parier sur le match nul à hauteur de 26.96% de votre bankroll.
+
+            La cote calculée étant de 2.0 contre 3.2 pour le bookmaker.
+            ",Football,Perdu,3.2,2
+2020-03-07,Sheffield United - Norwich,Sheffield United,3.24,1.19,0.77,37.56,36.79,"La cote calculée par l'algorithme est intéressante (1.61) comparée à celle du bookmaker (1.65).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 3.24% de votre bankroll sur l'équipe domicile faites attention.
+            ",Football,Gagné,1.65,3
+2020-03-07,Southampton - Newcastle,Southampton,-25.36,0.0,0.0,37.56,37.56,"La cote calculée par l'algorithme (2.08) est plus élévée que celle du bookmaker (1.7).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,1.7,0
+2020-03-07,Wolves - Brighton,Match nul,29.46,11.07,33.75,71.31,37.56,"La cote calculée par l'algorithme est intéressante (2.13) comparée à celle du bookmaker (4.05).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 29.46% de votre bankroll sur le match nul faites attention.
+            ",Football,Gagné,4.05,2
+2020-03-07,Burnley - Tottenham,Match nul,18.24,13.01,30.57,101.89,71.31,"La cote calculée par l'algorithme est intéressante (2.33) comparée à celle du bookmaker (3.35).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 18.24% de votre bankroll sur le match nul faites attention.
+            ",Football,Gagné,3.35,2
+2020-03-08,Chelsea - Everton,Chelsea,-8.17,0.0,0.0,101.89,101.89,"La cote calculée par l'algorithme (2.0) est plus élévée que celle du bookmaker (1.85).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,1.85,0
+2020-03-08,Man United - Man City,Man United,21.9,22.31,80.32,182.2,101.89,"La cote calculée par l'algorithme est intéressante (2.56) comparée à celle du bookmaker (4.6).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 21.9% de votre bankroll sur l'équipe domicile faites attention.
+            ",Football,Gagné,4.6,2
+2020-03-09,Leicester - Aston Villa,Leicester,-51.34,0.0,0.0,182.2,182.2,"La cote calculée par l'algorithme (1.75) est plus élévée que celle du bookmaker (1.4).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe domicile.",Football,Non parié,1.4,0
+2020-03-14,Watford - Leicester,Match nul,12.37,0.0,0.0,182.2,182.2,"La cote calculée par l'algorithme est intéressante (2.63) comparée à celle du bookmaker (3.45).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 12.37% de votre bankroll sur le match nul faites attention.
+            ",Football,Pari en cours,3.45,0
+2020-03-14,Bournemouth - Crystal Palace,Match nul,30.77,0.0,0.0,182.2,182.2,"Nous vous conseillons de parier sur le match nul à hauteur de 30.77% de votre bankroll.
+
+            La cote calculée étant de 1.92 contre 3.25 pour le bookmaker.
+            ",Football,Pari en cours,3.25,0
+2020-03-14,Brighton - Arsenal,Arsenal,6.94,0.0,0.0,182.2,182.2,"Nous vous conseillons de parier sur l'équipe extérieur à hauteur de 6.94% de votre bankroll.
+
+            La cote calculée étant de 2.08 contre 2.25 pour le bookmaker.
+            ",Football,Pari en cours,2.25,0
+2020-03-14,Man City - Burnley,Match nul,37.89,0.0,0.0,182.2,182.2,"La cote calculée par l'algorithme est intéressante (2.17) comparée à celle du bookmaker (7.75).
+
+            Néanmoins il existe une trop légère différence entre les différents résultats prédits possibles.
+
+            Par conséquent, même si nous vous recommandons de parier 37.89% de votre bankroll sur le match nul faites attention.
+            ",Football,Pari en cours,7.75,0
+2020-03-14,Newcastle - Sheffield United,Match nul,19.36,0.0,0.0,182.2,182.2,"Nous vous conseillons de parier sur le match nul à hauteur de 19.36% de votre bankroll.
+
+            La cote calculée étant de 2.22 contre 3.1 pour le bookmaker.
+            ",Football,Pari en cours,3.1,0
+2020-03-14,Norwich - Southampton,Norwich,12.97,0.0,0.0,182.2,182.2,"Nous vous conseillons de parier sur l'équipe domicile à hauteur de 12.97% de votre bankroll.
+
+            La cote calculée étant de 2.27 contre 2.82 pour le bookmaker.
+            ",Football,Pari en cours,2.82,0
+2020-03-14,Aston Villa - Chelsea,Chelsea,-54.41,0.0,0.0,182.2,182.2,"La cote calculée par l'algorithme (2.38) est plus élévée que celle du bookmaker (1.6).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe extérieur.",Football,Non parié,1.6,0
+2020-03-15,West Ham - Wolves,Match nul,25.17,0.0,0.0,182.2,182.2,"Nous vous conseillons de parier sur le match nul à hauteur de 25.17% de votre bankroll.
+
+            La cote calculée étant de 2.08 contre 3.35 pour le bookmaker.
+            ",Football,Pari en cours,3.35,0
+2020-03-15,Tottenham - Man United,Man United,-10.53,0.0,0.0,182.2,182.2,"La cote calculée par l'algorithme (2.5) est plus élévée que celle du bookmaker (2.2).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe extérieur.",Football,Non parié,2.2,0
+2020-03-16,Everton - Liverpool,Liverpool,-18.2,0.0,0.0,182.2,182.2,"La cote calculée par l'algorithme (2.04) est plus élévée que celle du bookmaker (1.75).
+
+        Par conséquent, nous vous conseillons de ne pas parier même si le résultat semble être l'équipe extérieur.",Football,Non parié,1.75,0
